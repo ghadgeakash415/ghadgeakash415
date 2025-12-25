@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Ghadge</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">Computer Science Student | Aspiring Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashghadge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 - 🎓 MSc Computer Science Student  
 - 💡 Interested in **Web Development, Databases, and AI**
-- 🌱 Currently learning **C#, .NET, MongoDB, Neo4j**
+- 🌱 Currently learning **C#, .NET, MongoDB,MYSQL**
 - 🧠 Strong in **problem-solving & academic projects**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **your-ghadgeakash415@gmail.com**
 
 ---
 
