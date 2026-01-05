@@ -56,12 +56,13 @@
 -----------------------------------------------------------------------------------------------------
 <p>
   <a href="https://github.com/akashghadge/snake-game" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-100000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Snake_Game-GitHub-100000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://akashghadge.github.io/snake-game/" target="_blank">
-    <img src="https://img.shields.io/badge/Play_Snake_Game-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Play_Game-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
