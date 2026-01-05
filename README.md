@@ -53,36 +53,15 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
-<!DOCTYPE html>
-<html>
-<body>
-<canvas id="c" width="300" height="300"></canvas>
-<script>
-let c=document.getElementById("c"),x=c.getContext("2d")
-let s=10,snake=[[150,150]],dx=s,dy=0
-let f=[Math.random()*290|0,Math.random()*290|0]
-onkeydown=e=>{
-if(e.key=="ArrowLeft"&&dx==0){dx=-s;dy=0}
-if(e.key=="ArrowRight"&&dx==0){dx=s;dy=0}
-if(e.key=="ArrowUp"&&dy==0){dx=0;dy=-s}
-if(e.key=="ArrowDown"&&dy==0){dx=0;dy=s}
-}
-setInterval(()=>{
-x.clearRect(0,0,300,300)
-let h=[snake[0][0]+dx,snake[0][1]+dy]
-if(h[0]<0||h[1]<0||h[0]>290||h[1]>290)snake=[[150,150]]
-snake.unshift(h)
-if(h[0]==f[0]&&h[1]==f[1])f=[Math.random()*290|0,Math.random()*290|0]
-else snake.pop()
-x.fillStyle="red"
-x.fillRect(f[0],f[1],s,s)
-x.fillStyle="green"
-snake.forEach(p=>x.fillRect(p[0],p[1],s,s))
-},120)
-</script>
-</body>
-</html>
+-----------------------------------------------------------------------------------------------------
+<p>
+  <a href="https://github.com/akashghadge/snake-game" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-100000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://akashghadge.github.io/snake-game/" target="_blank">
+    <img src="https://img.shields.io/badge/Play_Snake_Game-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
