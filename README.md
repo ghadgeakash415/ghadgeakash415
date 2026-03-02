@@ -58,8 +58,7 @@
 
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg">
 
-## 🎮 My Game
-✅ Tic Tac Toe: https://YOURUSERNAME.github.io/tic-tac-toe/
+
 
 
 ---
