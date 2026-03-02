@@ -52,8 +52,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
   </a>
 </p>
------------------------------------------------------------------------------------------------------
-## 🐍 Contribution Snake
+
+ 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
