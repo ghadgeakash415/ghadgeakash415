@@ -53,15 +53,14 @@
   </a>
 </p>
 
- 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</p>
 
 ## 🎯 Breakout Game
 
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg">
+
+## 🎮 Play My Game
+
+[Click Here To Play](https://yourgame.netlify.app)
 
 
 ---
