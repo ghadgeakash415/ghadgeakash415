@@ -53,10 +53,10 @@
   </a>
 </p>
 -----------------------------------------------------------------------------------------------------
-<p>
-  <a href="https://akashghadge.github.io/snake-game/" target="_blank">
-    <img src="https://img.shields.io/badge/Play_Snake_Game-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 
