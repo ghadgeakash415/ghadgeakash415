@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 - 🎓 MSc Computer Science Student  
-- 💡 Interested in **Web Development, Databases, and AI**
-- 🌱 Currently learning **C#, .NET, MongoDB,MYSQL**
+- 💡 Interested in **Web Development, Databases,**
+- 🌱 Currently learning **C#,SP.NET, ASP.NET Core, MVC, Web API , ADO .NET ,MYSQL**
 - 🧠 Strong in **problem-solving & academic projects**
-- 📫 Reach me at: **your-ghadgeakash415@gmail.com**
+- 📫 Reach me at: **your-ghadgeakash438@gmail.com**
 
 ---
 
